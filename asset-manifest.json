@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fitness-workout-planner/static/css/main.c10855b3.css",
+    "main.js": "/fitness-workout-planner/static/js/main.0651eb8b.js",
+    "index.html": "/fitness-workout-planner/index.html",
+    "main.c10855b3.css.map": "/fitness-workout-planner/static/css/main.c10855b3.css.map",
+    "main.0651eb8b.js.map": "/fitness-workout-planner/static/js/main.0651eb8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c10855b3.css",
+    "static/js/main.0651eb8b.js"
+  ]
+}
